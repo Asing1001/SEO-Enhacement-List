@@ -1,42 +1,42 @@
 # SEO Enhacement List
 
-A list of SEO enhancement methods
+List of SEO enhancement methods developer must know
 
 ## Top rule
 
-1. SEO is all about user experience
-1. SEO is all about contents
-1. Trustworthy
-1. Domain Authority
+* SEO is all about UX
+* SEO is all about contents
+* Make your website Trustworthy
+* Domain Authority is important
 
 ## Methods
 
 1. Meta data
-1. keyword
-1. Title
-1. RWD
+    * keyword
+    * Title
+1. UX
+    * RWD
+    * Page speed
+    * Meaningful Routing
 1. Improve contents
-1. Server side render
-1. Routing
-1. Duplicate content
+    * Localization
+1. Deal with Ajax/SPA
+    * Server side render
+    * Prerender + Snapshot
+1. Reduce duplicate content
     * Url rewrite
     * canonical url
-1. user experience
-1. robots.txt
+1. Status code
+    * 301 for permanent redirection
+    * 302 for temporary redirect
+    * 404 is ok if you want to remove the page
+    * Response 503 when site maintenance
 1. HTML meaningful tag name
-1. Localization
-1. 301 vs 302
-1. 404 is ok
-1. User stay time
-1. 503 when maintenance
-1. Page speed
-1. Bounce Rate
-
-## Deal with Ajax/SPA
-
-1. Server side render
-1. Prerender + Snapshot
+1. robots.txt
+1. sitemap.xml
 
 ## Never do
 
 1. Spam links to your website
+
+I will keep improving the list and detail, if you like it please star to let me know, thanks!
